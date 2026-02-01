@@ -1,0 +1,23 @@
+name: Welcome New Contributors
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Welcome first-time contributors
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 **Thanks for your first issue!**
+
+            We'll review this as soon as possible. While you wait:
+            - ⭐ [Chrome Web Store](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID) - Rate us if you like Oxford Dictionary Lookup!
+            - ⭐ [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/YOUR_EDGE_EXTENSION_ID) - Rate us on Edge!
+
+            Thanks for helping us improve Oxford Dictionary Lookup! 🚀

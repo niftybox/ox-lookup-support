@@ -1,0 +1,85 @@
+name: 🐛 Bug Report
+description: Report a bug or issue with Oxford Dictionary Lookup
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Your feedback helps improve Oxford Dictionary Lookup for everyone.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the bug clearly and concisely
+      placeholder: When I select a word and press Ctrl+Shift+X, nothing happens...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Select the word "example" on a webpage
+        2. Press Ctrl+Shift+X
+        3. See error
+
+  - type: input
+    id: version
+    attributes:
+      label: Extension Version
+      description: "Find this in chrome://extensions"
+      placeholder: "e.g., 1.0.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Chrome
+        - Edge
+        - Brave
+        - Opera
+        - Arc
+        - Other Chromium-based
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Other
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag & drop images here or paste from clipboard to help explain the problem
+      placeholder: You can paste images directly here
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here
+      placeholder: Console errors, related issues, or anything else that might help...
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have searched existing issues to avoid duplicates
+          required: true
+        - label: I have removed any sensitive information from screenshots/logs
+          required: true
