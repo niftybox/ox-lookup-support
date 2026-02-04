@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💬 Discussions
-    url: https://github.com/YOUR_USERNAME/oxford-dictionary-lookup-support/discussions
+    url: https://github.com/niftybox/ox-lookup-support/discussions
     about: Ask questions and discuss ideas with the community
   - name: 🛍️ Chrome Web Store
-    url: https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID
+    url: https://chromewebstore.google.com/detail/onljnjnbfggbdnobigopggefjpkoojjj
     about: Install and rate on Chrome Web Store
   - name: 🛍️ Microsoft Edge Add-ons
-    url: https://microsoftedge.microsoft.com/addons/detail/YOUR_EDGE_EXTENSION_ID
+    url: https://microsoftedge.microsoft.com/addons/detail/lnoggjmlgjefciodkmfaghdcbgbdimei
     about: Install and rate on Edge Add-ons

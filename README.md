@@ -4,10 +4,10 @@ Official bug tracker and feature request hub for **Oxford Dictionary Lookup** - 
 
 **Compatible with Chrome, Edge, Brave, Opera, Arc, and all Chromium-based browsers.**
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID?label=Chrome&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID)
-[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/YOUR_EXTENSION_ID?label=Users&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID)
-[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/YOUR_EXTENSION_ID?label=Rating&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID)
-[![Microsoft Edge](https://img.shields.io/badge/Edge-Download-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/YOUR_EDGE_EXTENSION_ID)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/onljnjnbfggbdnobigopggefjpkoojjj?label=Chrome&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/onljnjnbfggbdnobigopggefjpkoojjj)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/onljnjnbfggbdnobigopggefjpkoojjj?label=Users&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/onljnjnbfggbdnobigopggefjpkoojjj)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/onljnjnbfggbdnobigopggefjpkoojjj?label=Rating&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/onljnjnbfggbdnobigopggefjpkoojjj)
+[![Microsoft Edge](https://img.shields.io/badge/Edge-Download-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/lnoggjmlgjefciodkmfaghdcbgbdimei)
 
 ---
 
@@ -15,7 +15,7 @@ Official bug tracker and feature request hub for **Oxford Dictionary Lookup** - 
 
 Found a bug? Let us know!
 
-**[Report Bug →](https://github.com/YOUR_USERNAME/oxford-dictionary-lookup-support/issues/new?template=bug_report.yml)**
+**[Report Bug →](https://github.com/niftybox/ox-lookup-support/issues/new?template=bug_report.yml)**
 
 ---
 
@@ -23,13 +23,13 @@ Found a bug? Let us know!
 
 Have an idea to make Oxford Dictionary Lookup better?
 
-**[Request Feature →](https://github.com/YOUR_USERNAME/oxford-dictionary-lookup-support/issues/new?template=feature_request.yml)**
+**[Request Feature →](https://github.com/niftybox/ox-lookup-support/issues/new?template=feature_request.yml)**
 
 ---
 
 ## ❓ Get Help
 
-**[Ask a Question →](https://github.com/YOUR_USERNAME/oxford-dictionary-lookup-support/issues/new?template=question.yml)** | **[Discussions →](https://github.com/YOUR_USERNAME/oxford-dictionary-lookup-support/discussions)**
+**[Ask a Question →](https://github.com/niftybox/ox-lookup-support/issues/new?template=question.yml)** | **[Discussions →](https://github.com/niftybox/ox-lookup-support/discussions)**
 
 ---
 
@@ -46,8 +46,8 @@ Before submitting an issue:
 
 ## 🌐 Links
 
-- **Chrome Web Store:** [Install Oxford Dictionary Lookup](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID)
-- **Microsoft Edge Add-ons:** [Install on Edge](https://microsoftedge.microsoft.com/addons/detail/YOUR_EDGE_EXTENSION_ID)
+- **Chrome Web Store:** [Install Oxford Dictionary Lookup](https://chromewebstore.google.com/detail/onljnjnbfggbdnobigopggefjpkoojjj)
+- **Microsoft Edge Add-ons:** [Install on Edge](https://microsoftedge.microsoft.com/addons/detail/lnoggjmlgjefciodkmfaghdcbgbdimei)
 
 ---
 
@@ -60,7 +60,7 @@ Before submitting an issue:
 
 ## ⭐ Enjoying Oxford Dictionary Lookup?
 
-- Leave a review on [Chrome Web Store](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID) or [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/YOUR_EDGE_EXTENSION_ID)
+- Leave a review on [Chrome Web Store](https://chromewebstore.google.com/detail/onljnjnbfggbdnobigopggefjpkoojjj) or [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/lnoggjmlgjefciodkmfaghdcbgbdimei)
 - Star this repository
 - Share with friends and colleagues
 
@@ -72,6 +72,6 @@ Before submitting an issue:
 
 <div align="center">
   Made with ❤️ by the Oxford Dictionary Lookup Team<br>
-  <a href="https://github.com/YOUR_USERNAME/oxford-dictionary-lookup-support/issues">Issues</a> •
-  <a href="https://github.com/YOUR_USERNAME/oxford-dictionary-lookup-support/discussions">Discussions</a>
+  <a href="https://github.com/niftybox/ox-lookup-support/issues">Issues</a> •
+  <a href="https://github.com/niftybox/ox-lookup-support/discussions">Discussions</a>
 </div>
